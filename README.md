@@ -1,4 +1,4 @@
-# Face-Detection
+# Face-Detection with Haarcascades
 This project demonstrates face detection using the OpenCV library and Haarcascades. It includes code to detect faces in images and videos, leveraging the power of pre-trained Haarcascades classifiers for effective and efficient detection.
 
 Features:
