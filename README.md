@@ -6,6 +6,7 @@ Features:
 Face detection using Haarcascades
 Real-time detection with webcam support
 Easy to use and modify
+
 How to Use:
 
 Clone the repository.
